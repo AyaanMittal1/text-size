@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, red , yellow, blue);
+    text-align: center;
+}
+.header{
+   text-align: center; 
+   color: black;
+}
+.instruction{
+    background-color: white;
+    font-size: 15px;
+}
+.text{
+    height: 35%;
+    width: 35%;
+    background-color: rgb(246, 87, 87);
+    float: right;
+    margin-right: 75px;
+    font-size: 100px;
+}
+canvas{
+    border: 10px ridge blue;
+}
